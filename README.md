@@ -1,4 +1,4 @@
-# NewRoundManager2.0
+# NewRoundManager
 SCP: Classified Site plugin.
 
 Данный плагин заменяет существующий в игре RoundManager на новый. Отличия:
